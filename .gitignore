@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Shell session/log artifacts
+*.log
+*.tmp
+*.temp
+nohup.out
+
+# Samtools / FreeBayes generated files
+*.bam
+*.bam.bai
+*.cram
+*.cram.crai
+*.sam.gz
+*.bcf
+*.bcf.csi
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
+*.fai
+*.gzi
